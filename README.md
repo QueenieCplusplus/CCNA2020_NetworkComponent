@@ -24,3 +24,5 @@ https://www.youtube.com/watch?v=xop5XVL88qU (2020, 4月)
      ![Coaxial cable](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_NetworkComponent/master/TxRx.png)
 
 
+
+
