@@ -13,5 +13,7 @@ USB 2.0 介面能支援無線網路 IEEE 802.1g 54mbps 的網路。
      ！[Twisted pair](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_NetworkComponent/master/RJ45.png)
   
   ＊ 同軸電纜線，其接頭為 BNC (俗稱 TxRx)
+  
+     ![Coaxial cable](https://raw.githubusercontent.com/QueenieCplusplus/CCNA2020_NetworkComponent/master/TxRx.png)
 
 
